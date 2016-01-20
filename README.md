@@ -17,4 +17,6 @@ then delete whole line and fall down filled object with one cell.
 Piece moves randomly, I have implemented this in piece class. 
 A piece falls down with one by one and it turns left or right or it does not turn. 
 In order to stop piece, it moves to end of grid object or grid contains another piece under this piece.
-I have checked this via canmove method and it moves via move and moveSquares methods. I have filled cells in this class.       
+I have checked this via canmove method and it moves via move and moveSquares methods. I have filled cells in this class. 
+
+You also can find one class, two object and one sequence diagram in photos.
